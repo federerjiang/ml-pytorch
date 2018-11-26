@@ -1,2 +1,2 @@
 # ml-pytorch
-This repository holds the PyTorch-version implementations of all kinds machine learning and reinforcement learning algorithms.
+This repository holds the PyTorch-version-0.4.1 implementations of all kinds machine learning and reinforcement learning algorithms.
